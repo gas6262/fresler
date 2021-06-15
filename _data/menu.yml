@@ -1,20 +1,6 @@
 header: 
   - name: 'Home'
-    url: '#'
-    children:
-      - name: 'Home 1'
-        url: '/index.html'
-      - name: 'Home 2'
-        url: '/index-2.html'
-      - name: 'Home 3'
-        url: '/index-3.html'
-      - name: 'Home 4'
-        url: '/index-4.html'
-      - name: 'Onepage Home 1'
-        url: '/index-4.html'
-      - name: 'Onepage Home 2'
-        url: '/index-4.html'
-      
+    url: '/index.html'
   - name: 'About'
     url: '/about.html'
   - name: 'Services'
@@ -22,13 +8,7 @@ header:
   - name: 'Team'
     url: 'team.html'
   - name: 'Blog'
-    url: '#'
-    children:
-      - name: 'Blog Standard'
-        url: '/blog/index.html'
-      - name: 'Blog Grid'
-        url: '/blog/index.html'
-
+    url: '/blog/index.html'
   - name: 'Contact'
     url: '/contact.html'
 
