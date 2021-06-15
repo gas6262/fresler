@@ -23,17 +23,17 @@
                         <div class="header-left-side text-center text-sm-left">
                             <ul>
                                 <li><a href="#"><i class="fal fa-envelope"></i> {{ site.data.settings.email }}</a></li>
-                                <li><a href="#"><i class="fal fa-phone"></i> {{ site.data.settings.phone }}</a></li>
+                                <!-- <li><a href="#"><i class="fal fa-phone"></i> {{ site.data.settings.phone }}</a></li> -->
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-5">
                         <div class="header-right-social text-center text-sm-right">
-                            <ul>
+                            <!-- <ul>
                                 {%- for social in site.data.settings.socials -%}
                                 <li><a href="{{ social.url }}"><i class="{{ social.icon }}"></i></a></li>
                                 {%- endfor -%}
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -42,7 +42,7 @@
                 <div class="navigation">
                     <nav class="navbar navbar-expand-lg navbar-light ">
                         <a class="navbar-brand" href="{{ '/' | relative_url }}">
-                            <img src="{{ site.data.settings.logo  | relative_url  }}" alt="">
+                            <img style="max-width:200pt" src="{{ site.data.settings.logo  | relative_url  }}" alt="">
                         </a> <!-- logo -->
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="toggler-icon"></span>

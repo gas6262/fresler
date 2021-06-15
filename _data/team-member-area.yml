@@ -2,17 +2,17 @@ tagline: our team member
 title: Meet Our Exclusive Leadership
 
 teams: 
-  - avatar: assets/images/team-member-1.jpg
-    name: 'David Jhon Korla'
-    tagline: 'IT CONSULTANT'
+  - avatar: assets/images/david.jpg
+    name: 'David Gaspard'
+    tagline: 'Founder and CEO'
     facebook: '#'
     twitter: '#'
     behance: '#'
     youtube: '#'
     dribbble: '#'
   
-  - avatar: assets/images/team-member-2.jpg
-    name: David Jhon Korla
+  - avatar: assets/images/team1.jpg
+    name: Jordan Daniels
     tagline: IT CONSULTANT
     facebook: '#'
     twitter: '#'
@@ -20,38 +20,8 @@ teams:
     youtube: '#'
     dribbble: '#'
   
-  - avatar: assets/images/team-member-3.jpg
-    name: David Jhon Korla
-    tagline: IT CONSULTANT
-    facebook: '#'
-    twitter: '#'
-    behance: '#'
-    youtube: '#'
-    dribbble: '#'
-  
-
-  - avatar: assets/images/team-member-4.jpg
-    name: David Jhon Korla
-    tagline: IT CONSULTANT
-    facebook: '#'
-    twitter: '#'
-    behance: '#'
-    youtube: '#'
-    dribbble: '#'
-  
-
-  - avatar: assets/images/team-member-5.jpg
-    name: David Jhon Korla
-    tagline: IT CONSULTANT
-    facebook: '#'
-    twitter: '#'
-    behance: '#'
-    youtube: '#'
-    dribbble: '#'
-  
-
-  - avatar: assets/images/team-member-6.jpg
-    name: David Jhon Korla
+  - avatar: assets/images/team2.jpg
+    name: Lea Appel
     tagline: IT CONSULTANT
     facebook: '#'
     twitter: '#'

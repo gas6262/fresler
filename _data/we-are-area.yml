@@ -1,26 +1,26 @@
 tagline: who we are
 title: We Work Hard Play Hard Explore Creative Mmind
-description: 'Perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem-quelaudantium, totam rem aperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavoluptas sit aspernatur aut odit aut fugit, sed quia quuntur magni dolores eos ratione voluptatem sequi nesciunt eque porroe. '
+description: 'We are a San Francisco based group of Software engineers with a combined 25 years of industry experience in full stack development. Our members also have unique expertise in fields such as database optimization, hardware engineering, computer aided design, microprocessors, and embedded systems.'
 
 slider:
-  - icon: 'fal fa-laptop-code'
-    title: IT Soluations
-    description: Sed ut perspiciatis unde omnis iste natus error volup
-    link: '#' 
-
-  - icon: 'fal fa-fingerprint'
-    title: Security System
-    description: Sed ut perspiciatis unde omnis iste natus error volup
-    link: '#' 
-
   - icon: 'fal fa-chalkboard'
     title: Web Development
-    description: Sed ut perspiciatis unde omnis iste natus error volup
-    link: '#' 
+    description: Our team of experts can help you bring your next web app idea to life and to production.
+    link: '/contact.html' 
+
+  - icon: 'fal fa-laptop-code'
+    title: IT Solutions
+    description: Let us help you utilize the power of cloud computing to build your next world-scale app.
+    link: '/contact.html' 
+
+  - icon: 'fal fa-fingerprint'
+    title: Security Analysis
+    description: We can help your organization safe guard from security vulnerabilities in your Software and infrastructure.
+    link: '/contact.html' 
 
   - icon: 'fal fa-database'
-    title: Database Security
-    description: Sed ut perspiciatis unde omnis iste natus error volup
-    link: '#' 
+    title: Database Optimization
+    description: Schematizing and serving your data can be challenge at scale. Let us step in to get you the best performance possible.
+    link: '/contact.html' 
 
   
