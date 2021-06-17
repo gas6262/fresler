@@ -1,20 +1,20 @@
 slider:
   - image: assets/images/hero1.png
     tagline: 'Software Development'
-    title: 'No Code AI solutions'
-    description: 'We specialize in bringing the power of AI to the masses via our no-code self-serve solutions for the end-to-end AI lifecycle' 
-    button_text: 'Our Services'
-    button_url: '/services.html'
+    title: 'No Code AI Solutions'
+    description: 'We specialize in bringing the power of deep learning and machine learning to the masses via our no-code self-serve solutions for the end-to-end AI lifecycle' 
+    button_text: 'AI4Us'
+    button_url: 'https://www.4us.ai'
     
   - image: assets/images/hero2.jpg
     tagline: 'Technology Consulting'
-    title: 'Top Software Solutions Provider'
+    title: 'Cloud-First Systems Architecture'
     description: 'We have a combined 25 years of Software Engineering experience in Silicon Valley. Let our team of experts help build your next world-scale application' 
     button_text: 'Our Services'
     button_url: '/services.html'
     
   - image: assets/images/hero3.jpg
-    tagline: 'Take Your App To The Next Level'
+    tagline: 'Take Your Project To The Next Level'
     title: 'Product Readiness Assessment'
     description: 'We generate scale and vulnerability assessments to assure that your app is ready for production so that you can focus on business value' 
     button_text: 'Our Services'

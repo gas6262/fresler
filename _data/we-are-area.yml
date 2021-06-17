@@ -1,11 +1,11 @@
 tagline: who we are
-title: We Work Hard Play Hard Explore Creative Mmind
-description: 'We are a San Francisco based group of Software engineers with a combined 25 years of industry experience in full stack development. Our members also have unique expertise in fields such as database optimization, hardware engineering, computer aided design, microprocessors, and embedded systems.'
+title: We Work Hard So That You Can Rest Assured
+description: 'We are a San Francisco based group of software engineers with a combined 25 years of industry experience in full stack development. Our members also have unique expertise in fields such as database optimization, hardware engineering, computer aided design, microprocessors, and embedded systems.'
 
 slider:
   - icon: 'fal fa-chalkboard'
     title: Web Development
-    description: Our team of experts can help you bring your next web app idea to life and to production.
+    description: Our team of experts can help you bring your next web app to life and to production.
     link: '/contact.html' 
 
   - icon: 'fal fa-laptop-code'
@@ -14,8 +14,8 @@ slider:
     link: '/contact.html' 
 
   - icon: 'fal fa-fingerprint'
-    title: Security Analysis
-    description: We can help your organization safe guard from security vulnerabilities in your Software and infrastructure.
+    title: Systems Security
+    description: We can help your organization safe guard from security vulnerabilities in your Software and Infrastructure.
     link: '/contact.html' 
 
   - icon: 'fal fa-database'
