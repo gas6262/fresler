@@ -7,8 +7,8 @@ header:
     url: '/services.html'
   - name: 'Team'
     url: 'team.html'
-  - name: 'Blog'
-    url: '/blog/index.html'
+  # - name: 'Blog'
+  #   url: '/blog/index.html'
   - name: 'Contact'
     url: '/contact.html'
 

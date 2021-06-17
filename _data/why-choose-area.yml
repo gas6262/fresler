@@ -1,18 +1,14 @@
 tagline: why choose us
-title: We Are Very Different Form Others IT Solutions
-tagline: why choose us
-title: We Are Very Different Form Others IT Solutions
+title: We Are The Elite Solutions Provider
 items: 
-  - title: Modify Whole System
-    description: Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa
+  - title: Full System Architecture And Implementation
+    description: Leverage our breadth and depth of knowledge to design the optimal system for your requirements and bring it to life.
     icon-class: fa-laptop-code
 
-  - title: Beneficial Strategies
-    description: Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa
+  - title: Industry Experience at Top Companies
+    description: We've accumulated experience at industry leaders such as Google, Microsoft, and Oracle so that you can benefit from their Agile development processes
     icon-class: fa-server
 
-  - title: Automated Software
-    description: Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa
+  - title: Continuous Product Support
+    description: Our engineers are customer obsessed and we are here night and day to make sure that you are getting the most our of your custom solutions.
     icon-class: fa-tools
-
-    

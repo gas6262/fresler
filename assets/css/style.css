@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Omnivus
+    Template Name: Fresler
     Template URI: http://gizmoder.com/
     Description: Technology IT Solutions & Services HTML5 Template
     Author: Gizmoder Technology
@@ -6398,7 +6398,7 @@ nav .pagination.pagination-2 li a {
       font-size: 55px;
       line-height: 65px;
       color: #fff;
-      padding: 0 210px;
+      padding: 0 170px;
       padding-top: 15px; }
       @media only screen and (min-width: 992px) and (max-width: 1200px) {
         .services-title-area .services-title-item .title {
@@ -6409,7 +6409,7 @@ nav .pagination.pagination-2 li a {
         .services-title-area .services-title-item .title {
           font-size: 36px;
           line-height: 46px;
-          padding: 0 120px; } }
+          padding: 0 80px; } }
       @media (max-width: 767px) {
         .services-title-area .services-title-item .title {
           font-size: 30px;
@@ -6826,6 +6826,7 @@ nav .pagination.pagination-2 li a {
     37.TEAM MEMBER css 
 ================================*/
 .team-member-area {
+  padding-top: 113px;
   padding-bottom: 120px;
   overflow: hidden; }
   .team-member-area .section-title .title {

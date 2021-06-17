@@ -1,25 +1,25 @@
-- image: assets/images/services-4.1.jpg
-  title: Desktop Computing
-  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
-  link: '#'
-- image: assets/images/services-4.2.jpg
+- image: assets/images/ai.jpeg
+  title: AI Development
+  description: 'Add intuitive autocompletion, recommendations, or facial recognition to your application with our specially designed AI solutions.'
+  link: '/contact.html'
+- image: assets/images/spark.png
   title: Big Data & Analytics
-  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
-  link: '#'
+  description: 'We leverage Spark, Hadoop, and Python to extract, transform, load, and generate insights from your complex datasets.'
+  link: '/contact.html'
 - image: assets/images/services-4.3.jpg
-  title: It Management System
-  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
-  link: '#'
+  title: Cloud Infrastructure Management
+  description: 'Our engineers leverage the latest cloud solutions and infrastructure to help you scale orders of magnitude.'
+  link: '/contact.html'
 - image: assets/images/services-4.4.jpg
-  title: Dedicated IT Solution
-  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
-  link: '#'
+  title: Micro-Services Architecture
+  description: 'Scale out with containerized applications and Kubernetes.'
+  link: '/contact.html'
 - image: assets/images/services-4.5.jpg
-  title: Web Development
-  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
-  link: '#'
+  title: Web App Development
+  description: 'Let us help you build a secure and intuitive client that will obtain and retain customers'
+  link: '/contact.html'
 - image: assets/images/services-4.6.jpg
-  title: Big Data & Analytics
-  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
-  link: '#'
+  title: Payment Systems Integration
+  description: 'Convert your customer value into capital with industry-leading online payment systems'
+  link: '/contact.html'
   
