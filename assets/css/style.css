@@ -7156,6 +7156,99 @@ nav .pagination.pagination-2 li a {
     padding-right: 30px;
     padding-top: 18px;
     line-height: 26px; }
+    
+/*===============================
+    39b.OUR CHOOSE TEAM css 
+================================*/
+.our-choose-area-team {
+  }
+  .our-choose-area-team .section-title span {
+    letter-spacing: 3px; }
+  .our-choose-area-team .section-title .title {
+    font-size: 55px;
+    margin-bottom: 46px; }
+    @media (max-width: 767px) {
+      .our-choose-area-team .section-title .title {
+        font-size: 30px;
+        line-height: 40px;
+        margin-right: 70px; } }
+    @media only screen and (min-width: 576px) and (max-width: 767px) {
+      .our-choose-area-team .section-title .title {
+        font-size: 36px;
+        line-height: 46px;
+        margin-right: 70px; } }
+    .our-choose-area-team .section-title .title::before {
+      display: none; }
+  .our-choose-area-team .accordion {
+    border: 2px solid transparent; }
+    .our-choose-area-team .accordion .card {
+      border-radius: 0;
+      border: 0; }
+      .our-choose-area-team .accordion .card:first-child {
+        border-top: 0; }
+      .our-choose-area-team .accordion .card .card-header {
+        border-bottom: 0;
+        padding: 0;
+        margin: 0;
+        padding-bottom: 13px;
+        background-color: transparent; }
+        .our-choose-area-team .accordion .card .card-header a {
+          line-height: 50px;
+          padding: 0 0 0 0px;
+          text-decoration: none;
+          font-weight: 700;
+          font-size: 18px;
+          font-family: "GilroyBold";
+          width: 100%;
+          color: #0c59db;
+          position: relative; }
+          .our-choose-area-team .accordion .card .card-header a i {
+            padding-right: 5px; }
+          @media (max-width: 767px) {
+            .our-choose-area-team .accordion .card .card-header a {
+              font-size: 15px; } }
+          @media only screen and (min-width: 576px) and (max-width: 767px) {
+            .our-choose-area-team .accordion .card .card-header a {
+              line-height: 60px;
+              font-size: 16px; } }
+          .our-choose-area-team .accordion .card .card-header a.collapsed {
+            color: #616161; }
+      .our-choose-area-team .accordion .card .card-body {
+        padding: 0 9px 4px 0px !important; }
+        @media (max-width: 767px) {
+          .our-choose-area-team .accordion .card .card-body {
+            padding: 0 9px 4px 0px !important; } }
+        @media only screen and (min-width: 576px) and (max-width: 767px) {
+          .our-choose-area-team .accordion .card .card-body {
+            padding: 0 9px 4px 0px !important; } }
+        .our-choose-area-team .accordion .card .card-body p {
+          margin-top: -10px;
+          font-size: 15px;
+          padding-left: 25px;
+          color: #616161; }
+      .our-choose-area-team .accordion .card.show .card-body {
+        padding: 0 40px 14px 40px !important; }
+        .our-choose-area-team .accordion .card.show .card-body p {
+          margin-top: -10px;
+          font-size: 14px; }
+  .our-choose-area-team .our-choose-counter-area .our-choose-counter sub {
+    font-size: 55px;
+    font-weight: 500;
+    color: #0c59db;
+    font-family: "GilroyBold";
+    line-height: 33px; }
+  .our-choose-area-team .our-choose-counter-area .our-choose-counter > span {
+    font-size: 18px;
+    color: #232323;
+    display: block;
+    font-weight: 700;
+    padding-top: 20px; }
+  .our-choose-area-team .our-choose-counter-area .our-choose-counter p {
+    font-size: 15px;
+    color: #616161;
+    padding-right: 30px;
+    padding-top: 18px;
+    line-height: 26px; }
 
 /*===============================
     40.MEET US css 

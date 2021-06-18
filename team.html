@@ -36,7 +36,25 @@ title: 'Team'
                     <div class="leadership-item mt-50">
                         <img src="{{ team.avatar }}" alt="">
                         <div class="leadership-content">
-                            <h5 class="title">{{ team.name }}</h5>
+                            <!-- <h5 class="title">{{ team.name }}</h5> -->
+                            
+                            <div class="our-choose-area-team">
+                            <div class="accordion" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header" id="headingOne">
+                                        <a class="collapsed" href="" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                            <h5 class="title">{{ team.name }}</h5>
+                                        </a>
+                                    </div>
+                                    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <p>{{ team.bio }}
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div> <!-- card -->
+                                </div><!-- accordion -->
+                                </div>
                             <span>{{ team.tagline }}</span>
                         </div>
                     </div> <!-- leadership item -->
