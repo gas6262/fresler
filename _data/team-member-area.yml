@@ -1,36 +1,20 @@
-tagline: our team member
+tagline: our team members
 title: Meet Our Exclusive Leadership
 
 teams: 
   - avatar: assets/images/david.jpg
     name: 'David Gaspard'
     tagline: 'Founder and CEO'
-    facebook: '#'
-    twitter: '#'
-    behance: '#'
-    youtube: '#'
-    dribbble: '#'
-  
-  - avatar: assets/images/team1.jpg
-    name: Jordan Daniels
-    tagline: IT CONSULTANT
-    facebook: '#'
-    twitter: '#'
-    behance: '#'
-    youtube: '#'
-    dribbble: '#'
-  
-  - avatar: assets/images/team2.jpg
-    name: Lea Appel
-    tagline: IT CONSULTANT
-    facebook: '#'
-    twitter: '#'
-    behance: '#'
-    youtube: '#'
-    dribbble: '#'
+    bio: David graduated from Georgia Tech with a Masters in Computer Engineering in 2015. Since graduation, he has
+          worked as an engineer for numerous exclusive companies including Regulated Capital Consultants, Intel, and Microsoft.
+          He prides himself in being multidisciplinary as his education and experience spans from technology consulting
+          to hardware and software engineering.
+          He has lived in numerous places including France, Italy, Miami, Atlanta, and now San Francisco. He is an avid traveller
+          and technologist at heart.
+    linkedin: 'https://www.linkedin.com/in/david-gaspard-43490bba/'
   
 join:
-  tagline: Join With us
-  title: Let’s make some noise with us.
+  tagline: Join Us
+  title: Come make some noise with us.
   #google form link
-  applay_link: #
+  applay_link: /contact

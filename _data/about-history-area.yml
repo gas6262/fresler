@@ -1,11 +1,13 @@
 title: Our History
-description: Does any industry face a more complex audience journey and marketing sales process than B2B technology.
+description: We are technologists at heart and we're excited about all of the latest and greatest developments occurring in Cloud Computing. It is expected that with the adoption of Machine Learning and AI and with technologies such as 5G, the amount of data travelling over the internet will become 100x what it is today. That's a lot of new demand for which most companies simply aren't prepared. Not to mention, many of the companies that are able to quickly meet the increase of demand are targeted by hackers and scammers.
+  We have made it our mission to prepare our partners for the increasing demands of a booming internet economy. We've been in the Software Engineering industry for a combined 25+ years and have seen first hand projects crumble from inability to scale or die from 1000 cuts as their inexperienced developers disregard security in an effort to move quickly. In our time amongst some of the most notable Silicon Valley companies, we've seen all the write ways to scale quickly. And you can be sure that we've seen all of the wrong ways.
+  We want to work with your organization to bring the power of the Cloud and AI to your customers!
 
 history: 
   - image: assets/images/history-1.jpg
     tagline: 1990 - Startup
     title:  Technical content may have per suasive objectives.
-    count: 02
+    count: 01
 
   - image: assets/images/history-1.jpg
     tagline: 1990 - Startup
@@ -15,7 +17,7 @@ history:
   - image: assets/images/history-1.jpg
     tagline: 1990 - Startup
     title:  Technical content may have per suasive objectives.
-    count: 02
+    count: 03
 
   
     

@@ -1,25 +1,27 @@
 tagline: 25 Years Of Experience
-title: Not only explore for job done.
-experience_text: Does any industry face a more complex audience journey and marketing sales process than B2B technology? Consider the number of people who influence a sale, the length of the decision-making cycle, the competing interests of the people who purchase, implement, manage, and use the technology. It’s a lot meaningful content here.
+title: We've Seen All Of The Wrong Ways. <br> So You Don't Have To.
+experience_text: We are technologists at heart and we're excited about all of the latest and greatest developments occurring in Cloud Computing. It is expected that with the adoption of Machine Learning and AI and with technologies such as 5G, the amount of data travelling over the internet will become 100x what it is today. That's a lot of new demand for which most companies simply aren't prepared. Not to mention, many of the companies that are able to quickly meet the increase of demand are targeted by hackers and scammers.
+  We have made it our mission to prepare our partners for the increasing demands of a booming internet economy. We've been in the Software Engineering industry for a combined 25+ years and have seen first hand projects crumble from inability to scale or die from 1000 cuts as their inexperienced developers disregard security in an effort to move quickly. In our time amongst some of the most notable Silicon Valley companies, we've seen all the write ways to scale quickly. And you can be sure that we've seen all of the wrong ways.
+  We want to work with your organization to bring the power of the Cloud and AI to your customers!
 experience_url: '#'
 
 
 experiences:
   - image: assets/images/experience-1.jpg
     title: Design & Development
-    description: The functional goal of technical content is to help people use a product.
-    link: '#' 
+    description: We generate high level and low level design options and have resources to implement these solutions
+    link: '/services' 
     icon: 'fa-laptop-code'
 
   - image: assets/images/experience-2.jpg
-    title: Technical Support
-    description: The functional goal of technical content is to help people use a product.
-    link: '#' 
-    icon: 'fa-headphones-alt'
+    title: System Architecture
+    description: We can help your application step into a new era by collecting scale requirements and creating a suitable architecture.
+    link: '/services' 
+    icon: 'fa-cloud'
 
   - image: assets/images/experience-3.jpg
-    title: Digital Marketing
-    description: The functional goal of technical content is to help people use a product.
-    link: '#' 
+    title: Business Analytics
+    description: We generate monitoring and alerting dashboards using your telemetry and data so that you can stay on top of everything.
+    link: '/services' 
     icon: 'fa-analytics'
 
