@@ -26,4 +26,9 @@
     <link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+
+
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
 </head>
