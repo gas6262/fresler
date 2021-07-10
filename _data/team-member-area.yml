@@ -3,6 +3,7 @@ title: Meet Our Exclusive Leadership
 
 teams: 
   - avatar: assets/images/david.jpg
+    id: david
     name: 'David Gaspard'
     tagline: 'Founder and CEO'
     bio: David graduated from Georgia Tech with a Masters in Computer Engineering in 2015. Since graduation, he has
@@ -12,7 +13,18 @@ teams:
           He has lived in numerous places including France, Italy, Miami, Atlanta, and now San Francisco. He is an avid traveller
           and technologist at heart.
     linkedin: 'https://www.linkedin.com/in/david-gaspard-43490bba/'
-  
+    personal: 'https://dgaspard.com'
+  - avatar: assets/images/rene.jpg
+    id: rene
+    name: 'René Kybranz'
+    tagline: 'Executive Consultant'
+    bio: René graduated from the Indiana University of Pennsylvania with an MBA in Business Administration (2017) and from the
+          University Duisburg-Essen with a Masters of Science in Accounting & Finance (2018). Since graduation, he has been working as
+          a full-time Management Consultant for global clients across several industries. He is highly skilled in designing 
+          target operating models and process optimizations. He supports Fresler in his free time with his business expertise
+          and is advisor to CEO and founder David.
+    linkedin: 'https://www.linkedin.com/in/kybranz/'
+
 join:
   tagline: Join Us
   title: Come make some noise with us.

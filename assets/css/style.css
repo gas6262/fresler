@@ -1289,7 +1289,7 @@ PRELOADER
       opacity: 1; }
 
 .page-title-area {
-  height: 530px;
+  height: 370px;
   background: #a9c7ec;
   position: relative; }
   .page-title-area h2
@@ -1306,7 +1306,7 @@ PRELOADER
       height: 500px; } }
   @media (max-width: 767px) {
     .page-title-area {
-      height: 450px; } }
+      height: 250px; } }
   .page-title-area::before {
     position: absolute;
     content: '';
@@ -1319,7 +1319,7 @@ PRELOADER
     background-size: cover;
     background-position: center; }
   .page-title-area .page-title-item {
-    padding-top: 280px; }
+    padding-top: 200px; }
     .page-title-area .page-title-item .title {
       font-size: 80px; }
       @media (max-width: 767px) {
